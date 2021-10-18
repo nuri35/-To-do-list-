@@ -13,8 +13,8 @@
 
  ## 🙈: Proje içinden görüntüler
  
- ![alt text](https://www.woohoobox.com/Uploads/UrunResimleri/buyuk/motivasyon-to-do-list-kirtasiye-woohoo-2f0f19.jpg)
- ![alt text](https://www.woohoobox.com/Uploads/UrunResimleri/buyuk/motivasyon-to-do-list-kirtasiye-woohoo-2f0f19.jpg)
+ ![alt text](https://github.com/nuri35/-To-do-list-/blob/main/images/a.PNG)
+ ![alt text](https://github.com/nuri35/-To-do-list-/blob/main/images/f.PNG)
  
 
 <h2> 🛠 &nbsp;Kullanılan Teknolojiler</h2>
